@@ -1,5 +1,8 @@
 # vuetutorial
 
+This is a project I made when following Brad Traversy's Vue Crash course on YouTube.
+
+__________________________________________
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
